@@ -1,9 +1,11 @@
 h1 {
-    background-color: blueviolet;
-    font-size: small;
+  font-size: large;
+  color: green;
 }
 
 p {
-    background-color: blueviolet;
-    font-size: large;
+  font-size: small;
+  color: green;
 }
+
+/*# sourceMappingURL=variables.css.map */
