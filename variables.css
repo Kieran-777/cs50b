@@ -1,7 +1,9 @@
 h1 {
     background-color: blueviolet;
+    font-size: small;
 }
 
 p {
-    background-color: aqua;
+    background-color: blueviolet;
+    font-size: large;
 }
